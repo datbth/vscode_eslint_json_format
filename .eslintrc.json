@@ -10,5 +10,10 @@
         "ecmaVersion": 12
     },
     "rules": {
-    }
+    },
+    "overrides": [
+        {
+            "files": ["**/*.json"]
+        }
+    ]
 }
